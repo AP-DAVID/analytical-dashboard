@@ -1,3 +1,10 @@
+**AN ANALYTICAL DASHBOARD**
+This website strictly contains by favorite reusable components whilst developing a dashboard, It wasn't designed to be responsive.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,5 +1,5 @@
-**AN ANALYTICAL DASHBOARD**
-This website strictly contains by favorite reusable components whilst developing a dashboard, It wasn't designed to be responsive.
+**AN ANALYTICAL DASHBOARD** :
+This website strictly contains my favorite reusable components whilst developing a dashboard, It wasn't designed to be responsive.
 
 
 
